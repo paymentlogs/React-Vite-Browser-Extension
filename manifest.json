@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "paymentlogs React x Vite Browser Extension Boilerplate",
+    "name": "voromade React x Vite Browser Extension Boilerplate",
     "version": "1.0.0",
-    "description": "React x Vite Browser Extension Boilerplate written by paymentlogs",
+    "description": "React x Vite Browser Extension Boilerplate written by voromade",
     "permissions": [
         "activeTab",
         "tabs",
@@ -22,7 +22,7 @@
     },
     "action": {
         "default_popup": "index.html",
-        "default_title": "paymentlogs React x Vite Extension Boilerplate"
+        "default_title": "voromade React x Vite Extension Boilerplate"
     },
     "content_scripts": [
         {
