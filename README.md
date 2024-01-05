@@ -13,7 +13,7 @@
 
 ## Todo:
 
-- [ ] Add sentry support
+- 10 Stars: [ ] Add sentry support
 
 ## Commands:
 
